@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 9.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+BEGIN:VEVENT
+ORGANIZER:MAILTO:mylearning.noreply@capgemini.com
+DTSTART:20190806T034500Z
+DTEND:20190809T120000Z
+LOCATION:
+TRANSP:OPAQUE
+SEQUENCE:62850211
+UID:786661791810@sumtotalnotificationservice.com
+DTSTAMP:20190802T003010Z
+DESCRIPTION:Please go through the L&D FAQ document to get answers for queries that you may have. \nTo access the FAQs, you need to click on the below link:\n\nhttp://talent.capgemini.com/in/pages/learning/ld_policies__processes/\n\n\n\nDear Sandhya N,\n\nWelcome to the Virtual Classroom session Angular 6.  You will join this virtual classroom session using Microsoft Live Meeting technology.  As a remote attendee, please log in to the session 15 minutes prior to the start time of the session.You are requested to directly connect(LAN connection) to the fastest internet connection available. Do NOT use wireless.\n\nProgram Name:      Angular 6\nStart Date / Time:  8/5/2019 11:45:00 PM EDT\nEnd Date / Time:    8/9/2019 8:00:00 AM EDT\n\nPERFORM SYSTEM CHECK:  \nWe strongly recommend that you test your computer prior to the session.  \n•	Click on the following link to test the setup of Microsoft Live Meeting on your computer:  http://go.microsoft.com/fwlink/?LinkId=90703\n•	Click continue. You will be entered into the Microsoft Live Meeting session with scrolling presentation displaying a successful connection message.\n\nVIRTUAL CLASSROOM JOINING INSTRUCTIONS: \nStep 1. Click on the following url using  Chrome browser: https://capgemini.sumtotal.host/core/pillarRedirect?relyingParty=LM&lang=en-us&url=app/management/LMS_ActDetails.aspx%3FActivityId%3D786661%26UserMode%3D0\nStep 2. Click on the START button to launch the virtual classroom. Make sure all pop up blockers are disabled. \nStep 3. Click “Join” to attend the virtual classroom. If a passcode is required, it will be pre-populated for you.\n\nAUDIO CONFERENCE DETAILS:\nNOTES:\nDO’S \n1. Connect PC using wired network \n2. Connect using telephone via conference ID for the session OR Switch over to USB headset with mouthpiece microphone for session \n3. Always be on mute, unmute only while speaking \n4. Always use Q&A tab to raise questions \n\n\nDONT’S \n\n1. Inbuilt speaker & microphone usage from Laptop for communication \n\n2. Place the call on hold \n3. Use of only Wi-Fi connection \n\nPer Participant Cost: Rs. 0\nReasonable adjustments (accessible training venue, information in accessible format, sign language interpreter, preferential seating, wheelchair, assistive devices, etc.) would be provided to people with disabilities to make the training program accessible. Kindly send an email to  Inclusion.In@capgemini.com  for any adjustments that you may require at least one week before the training program. \n\nIf you have any problems connecting to Microsoft Live Meeting, please contact your local IT help desk.\n\nYou may access MyLearning at https://mylearning.capgemini.com for all of your learning needs.\n\nThank you,\nIndia L&D Team \n(inlndtsos.in@capgemini.com) \n
+SUMMARY:Angular 6
+PRIORITY:5
+CLASS:PUBLIC
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

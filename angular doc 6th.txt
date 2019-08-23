@@ -1,0 +1,112 @@
+[‎8/‎6/‎2019 12:25 PM]  Muthukrishnan, Karthik:  
+No Title 
+HTML 5.0
+
+I.E - Chakra
+
+Google Chrome - V8
+
+ECMA International
+
+ES1, ES2, ES3, ES4, ES5, ES6 or ES2015, 
+
+IE 11.0 supports only 11% of ES6
+
+Compilers TypeScript, Babel, Traceur
+
+W3C Webcomponents 2.0
+
+Custom Element
+Shadow DOM
+HTML Imports
+
+
+Angular 2.0, React.js, Polymer
+
+Component Based Applications
+
+
+JavaScript Essentials
+https://www.youtube.com/watch?v=cXlXSkgjOHE
+
+CSS Selectors
+https://www.youtube.com/watch?v=cqVRDWKZsLs
+
+Webcomponents
+https://www.yammer.com/capgemini.com/threads/860079218
+
+TypeScript
+https://www.yammer.com/capgemini.com/threads/846526471
+
+WebPack 4
+https://www.yammer.com/capgemini.com/threads/156965485944832
+
+Angular 5 Environment
+https://www.yammer.com/capgemini.com/threads/1209923007
+
+Emmet Plugin (HTML Scaffolding)
+
+! - HTML5 boiler plate code
+
+html>head>title{Angular}^body>p{Angular}
+
+p{Paragraph-$}*5
+
+p#main+p.sty1.sty2+p[data-company="Capgemini"]
+
+table>(tr>td{TD-$}*3)*3
+
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Panel title</h3>
+  </div>
+  <div class="panel-body">
+    Panel content
+  </div>
+</div>
+
+
+div.panel.panel-default>div.panel-heading>h3.panel-title{Panel title}^div.panel-body{Panel Content}
+
+========================================================================================
+https://fts.capgemini.com/private/4797091434960/00-Angular-EnvironmentSetup.mp4 
+============================================================================================
+
+JavaScript Essentials
+https://www.youtube.com/watch?v=cXlXSkgjOHE
+
+CSS Selectors
+https://www.youtube.com/watch?v=cqVRDWKZsLs
+
+Webcomponents
+https://www.yammer.com/capgemini.com/threads/860079218
+
+TypeScript
+https://www.yammer.com/capgemini.com/threads/846526471
+
+WebPack 4
+https://www.yammer.com/capgemini.com/threads/156965485944832
+
+Angular 5 Environment
+https://www.yammer.com/capgemini.com/threads/1209923007 
+
+=============================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
